@@ -138,23 +138,11 @@
 
 <div align="center">
   <!-- Added 'tokyonight' theme and caching to prevent timeout errors -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rbrtsl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rbrtsl&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="languages graph" />
 </div>
 <br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rbrtsl&locale=en&mode=daily&theme=tokyonight&hide_border=true&background=1a1b27" height="180" alt="streak graph" />
-</div>
-
-<br>
-
-<!-- SNAKE ANIMATION (Requires GitHub Action) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rbrtsl/rbrtsl/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rbrtsl/rbrtsl/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rbrtsl/rbrtsl/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 <br>
