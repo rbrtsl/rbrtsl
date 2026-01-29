@@ -1,37 +1,40 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
-  # Esegue ogni 12 ore
+  # Esegui automaticamente ogni 24 ore
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */24 * * *" 
   
-  # Permette l'esecuzione manuale
+  # Permette di eseguirlo manualmente dalla tab Actions
   workflow_dispatch:
   
-  # Esegue ad ogni push sul branch main
+  # Esegui a ogni push sul branch master/main
   push:
     branches:
-      - main
+    - master
+    - main
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
+    
     steps:
-      # Genera l'animazione del serpente
-      - name: Generate snake.svg
+      # Clona il repo
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      # Genera il serpente
+      - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: rbrtsl
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-
-      # Pubblica l'animazione sul branch output
-      - name: Push to output branch
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+      # Pubblica il file generato sul branch "output"
+      - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
