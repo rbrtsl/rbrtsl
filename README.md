@@ -1,21 +1,21 @@
 <!-- 
 =============================================================================
    GITHUB PROFILE README - RBRTSL
-   Theme: Tokyo Night Storm (Premium Edition)
-   Version: 5.0 - Perfect & Fully Functional
+   Theme: Tokyo Night Storm
+   Version: Final - All Working
 =============================================================================
 -->
 
 <div align="center">
   
   <!-- ANIMATED HEADER -->
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=100&lines=Hi+there!+👋+I'm+rbrtsl;Informatics+Student+👨‍💻;Full+Stack+Developer+💻;Creative+Designer+🎨;Always+Learning+New+Things+📚" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=100&lines=Hi+there!+👋+I'm+rbrtsl;Informatics+Student+👨‍💻;Full+Stack+Developer+💻;Creative+Designer+🎨;Always+Learning+📚" alt="Typing Animation" />
 
-  <!-- SOCIAL BADGES & STATS -->
+  <br>
+
+  <!-- PROFILE STATS -->
   <p>
-    <a href="https://github.com/rbrtsl">
-      <img src="https://komarev.com/ghpvc/?username=rbrtsl&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views" />
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=rbrtsl&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/rbrtsl?style=for-the-badge&color=7aa2f7&labelColor=1a1b27&logo=github" alt="Followers" />
     <img src="https://img.shields.io/github/stars/rbrtsl?style=for-the-badge&color=bb9af7&labelColor=1a1b27&logo=github" alt="Total Stars" />
   </p>
@@ -27,19 +27,6 @@
 <!-- ANIMATED WAVE SEPARATOR -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling" width="100%"/>
-</div>
-
-<!-- GITHUB TROPHIES -->
-<div align="center">
-  <h2>🏆 GitHub Achievements</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=rbrtsl&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&margin-h=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-<!-- GLOWING SEPARATOR -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
 <br>
@@ -208,45 +195,21 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  
-  <!-- Stats Cards -->
-  <table border="0" align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=rbrtsl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=rbrtsl&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rbrtsl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" alt="Languages Graph" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=rbrtsl&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=rbrtsl&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 <br>
 
-<!-- CONTRIBUTION ACTIVITY GRAPH -->
-<h2 align="center">📈 Contribution Activity</h2>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rbrtsl&custom_title=Contribution%20Graph&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=f7768e&area=true&area_color=7aa2f7" width="95%" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rbrtsl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br>
 
 <!-- SNAKE ANIMATION -->
 <div align="center">
-  <h2>🐍 Watch the Snake Eat My Contributions!</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rbrtsl/rbrtsl/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rbrtsl/rbrtsl/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rbrtsl/rbrtsl/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/rbrtsl/rbrtsl/output/snake.svg" alt="Snake animation" />
 </div>
 
 <br>
@@ -261,6 +224,13 @@
 <!-- FOOTER WITH WAVE -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+</div>
+
+<br>
+
+<!-- ANIME PIXEL GIRLS -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
 <br>
@@ -285,25 +255,10 @@
   
   <br><br>
   
-  <p>
-    <img src="https://img.shields.io/badge/Made_with-❤️_&_Coffee-red?style=flat-square&labelColor=1a1b27" />
-    <img src="https://img.shields.io/badge/Always-Learning-blue?style=flat-square&labelColor=1a1b27" />
-  </p>
-  
   <p align="center">
     <b>© 2024 rbrtsl • Informatics Student & Creative Developer</b>
   </p>
   
 </div>
 
-<!-- 
-===============================================================================
-   README PERFETTO E COMPLETAMENTE FUNZIONANTE
-   - Tutti i link funzionano
-   - Tutte le animazioni sono attive
-   - DevIcons per un look professionale
-   - Stats e grafici aggiornati in tempo reale
-   - Tech stack completo
-   - Design Tokyo Night theme
-===============================================================================
--->
+<!-- END OF README -->
