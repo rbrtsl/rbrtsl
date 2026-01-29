@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */12 * * *" # Esegue ogni 12 ore
-  workflow_dispatch:
+  workflow_dispatch:      # Permette di eseguirlo a mano
   push:
     branches:
     - main
@@ -13,6 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      
       - uses: Platane/snk@v3
         id: snake-gif
         with:
