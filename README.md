@@ -143,7 +143,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rbrtsl&locale=en&mode=daily&theme=tokyonight&hide_border=true&background=1a1b27" height="140" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=rbrtsl&locale=en&mode=daily&theme=tokyonight&hide_border=true&background=1a1b27" height="180" alt="streak graph" />
 </div>
 
 <br>
